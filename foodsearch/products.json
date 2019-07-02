@@ -1,0 +1,569 @@
+{
+    "code": 0,
+    "message": "App商品類型資料",
+    "datacnt": 70,
+    "prod_model": "",
+    "imgpath": "",
+    "data": [
+        {
+            "serno": "443",
+            "subject": "鍋貼",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "444",
+            "subject": "水餃",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "445",
+            "subject": "湯品八方",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "446",
+            "subject": "飲品八方",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "447",
+            "subject": "魚丸",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "448",
+            "subject": "組合",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "449",
+            "subject": "套餐",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "450",
+            "subject": "湯餃類",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "451",
+            "subject": "乾麵",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "452",
+            "subject": "湯麵",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "453",
+            "subject": "湯品蘿蔔",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "454",
+            "subject": "蒸籠",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "455",
+            "subject": "抄手",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "456",
+            "subject": "小菜",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "457",
+            "subject": "飲品蘿蔔",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "458",
+            "subject": "飲品特調",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "459",
+            "subject": "炸物類",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "460",
+            "subject": "飯類",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "461",
+            "subject": "生鮮水餃",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "462",
+            "subject": "生鮮抄手",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "463",
+            "subject": "袋裝飲料八方",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "464",
+            "subject": "袋裝飲料蘿蔔",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "465",
+            "subject": "包裝材",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "466",
+            "subject": "生鮮原料",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "467",
+            "subject": "停用",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "468",
+            "subject": "優惠",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "469",
+            "subject": "商品(W02)",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "470",
+            "subject": "商品(S05)",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "471",
+            "subject": "商品(W00)",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "472",
+            "subject": "商品(W00)",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "473",
+            "subject": "商品(W00)",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "474",
+            "subject": "商品(W02)",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "475",
+            "subject": "商品(W00)",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "476",
+            "subject": "商品(W00)",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "477",
+            "subject": "商品(W00)",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "478",
+            "subject": "原料(W00)",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "479",
+            "subject": "原料(W02)",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "480",
+            "subject": "原料(W00)",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "481",
+            "subject": "原料(W02)",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "482",
+            "subject": "清潔用品",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "483",
+            "subject": "固定資產",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "484",
+            "subject": "營業用品",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "485",
+            "subject": "衛生用品",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "486",
+            "subject": "文具用品",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "487",
+            "subject": "零件耗材",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "488",
+            "subject": "耗材",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "489",
+            "subject": "雜項",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "490",
+            "subject": "列管",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "491",
+            "subject": "包材(W00)",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "492",
+            "subject": "包材(W02)",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "493",
+            "subject": "製成品(W00)",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "494",
+            "subject": "製成品(W02)",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "495",
+            "subject": "高雄商品(W00)",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "496",
+            "subject": "高雄商品(W02)",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "497",
+            "subject": "POS鍋貼類",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "498",
+            "subject": "POS水餃類",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "499",
+            "subject": "POS麵類",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "500",
+            "subject": "POS抄手類",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "501",
+            "subject": "POS湯品類",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "502",
+            "subject": "POS小菜類",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "503",
+            "subject": "POS飲品",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "504",
+            "subject": "POS生鮮類",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "505",
+            "subject": "POS調味品",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "506",
+            "subject": "POS時蔬類",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "507",
+            "subject": "POS套餐類",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "508",
+            "subject": "POS包材類",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "509",
+            "subject": "半成品(W00)",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "510",
+            "subject": "半成品(W02)",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "511",
+            "subject": "半成品(W02)",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        },
+        {
+            "serno": "512",
+            "subject": "商品(T00)",
+            "imgfile1": null,
+            "imgfile2": null,
+            "istag": "0",
+            "ishome": "0"
+        }
+    ]
+}

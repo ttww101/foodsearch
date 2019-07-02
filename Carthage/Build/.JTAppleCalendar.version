@@ -1,0 +1,9 @@
+{
+  "commitish" : "7.1.6",
+  "iOS" : [
+    {
+      "name" : "JTAppleCalendar",
+      "hash" : "defb5dfaad74612932118b0f974c1a752c92f4eb976b68e4af061c3b92e2ca27"
+    }
+  ]
+}

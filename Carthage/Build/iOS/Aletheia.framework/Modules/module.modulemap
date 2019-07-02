@@ -1,0 +1,11 @@
+framework module Aletheia {
+  umbrella header "Aletheia.h"
+
+  export *
+  module * { export * }
+}
+
+module Aletheia.Swift {
+    header "Aletheia-Swift.h"
+    requires objc
+}

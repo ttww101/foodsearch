@@ -1,0 +1,30 @@
+
+{
+    "code": 0,
+    "message": "訊息資料",
+    "datacnt": 1,
+    "commercial_district_name": "冬山商圈",
+    "data": [
+        {
+            "company_id": "41196366",
+            "shop_id": "0001",
+            "shop_name": "春不老驛站牛肉麵",
+            "shop_kind": "1",
+            "tel": "",
+            "fax": "",
+            "zip": "",
+            "worktime": "上午11:30 / 下?",
+            "address": "宜蘭縣宜蘭市",
+            "longitude": "121.7538415677",
+            "latitude": "24.7590418013",
+            "pov_heading": ".0000000000",
+            "pov_pitch": ".0000000000",
+            "pov_zoom": "1.3883554566",
+            "appmeal": "1",
+            "htmlbody": "",
+            "imgfile1": "banner4",
+            "score": ".0",
+            "authkey": "6zz1jd2ttujydngrgtuakcv4qcv5tdfc"
+        }
+    ]
+}

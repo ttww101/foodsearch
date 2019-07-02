@@ -1,0 +1,9 @@
+{
+  "commitish" : "6.10.4",
+  "iOS" : [
+    {
+      "name" : "Bond",
+      "hash" : "ba5edc9bd76fa1733346cdb732069de2b78ba23c7cab0f41eb882b55112e01a4"
+    }
+  ]
+}

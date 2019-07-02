@@ -1,0 +1,67 @@
+{
+    "code": 0,
+    "message": "商圈資料",
+    "datacnt": 7,
+    "data": [
+        {
+            "commercial_district_id": "ll01",
+            "name": "附近美食",
+            "tel": "",
+            "fax": "",
+            "email": "",
+            "contact": "",
+            "jobtitle": "",
+            "htmlbody": ""
+        },
+        {
+            "commercial_district_id": "ll02",
+            "name": "安平商圈",
+            "tel": "",
+            "fax": "",
+            "email": "",
+            "contact": "",
+            "jobtitle": "",
+            "htmlbody": ""
+        },
+        {
+            "commercial_district_id": "ll03",
+            "name": "新營商圈",
+            "tel": "",
+            "fax": "",
+            "email": "",
+            "contact": "",
+            "jobtitle": "",
+            "htmlbody": ""
+        },
+        {
+            "commercial_district_id": "ll04",
+            "name": "冬山商圈",
+            "tel": "",
+            "fax": "",
+            "email": "",
+            "contact": "",
+            "jobtitle": "",
+            "htmlbody": ""
+        },
+        {
+            "commercial_district_id": "ll05",
+            "name": "中西區商圈",
+            "tel": "",
+            "fax": "",
+            "email": "",
+            "contact": "",
+            "jobtitle": "",
+            "htmlbody": ""
+        },
+        {
+            "commercial_district_id": "LAJOIN06",
+            "name": "旅食市集",
+            "tel": "",
+            "fax": "",
+            "email": "",
+            "contact": "",
+            "jobtitle": "",
+            "htmlbody": ""
+        }
+    ]
+}
